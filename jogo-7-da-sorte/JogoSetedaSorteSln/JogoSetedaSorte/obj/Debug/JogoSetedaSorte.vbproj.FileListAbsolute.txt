@@ -1,0 +1,12 @@
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe.config
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.pdb
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.xml
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.AssemblyReference.cache
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Form1.resources
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Resources.resources
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.GenerateResource.cache
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.CoreCompileInputs.cache
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.exe
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.xml
+E:\Faculdade\21_programacao_visual\aula2-desenvolvimento-de-aplicacoes-windows-com-uso-de-conceitos-visuais\aula-pratica\jogo-7-da-sorte\JogoSetedaSorteSln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.pdb
